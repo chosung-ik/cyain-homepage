@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99f29c5a.css",
+    "main.js": "/static/js/main.81edb35d.js",
+    "static/js/787.66ce67a1.chunk.js": "/static/js/787.66ce67a1.chunk.js",
+    "static/media/NotoSans-Medium.eot?iefix": "/static/media/NotoSans-Medium.cf2fe1c75fdb2b4f1274.eot",
+    "static/media/NotoSans-Medium.ttf": "/static/media/NotoSans-Medium.93b8fac456d54c025376.ttf",
+    "static/media/NotoSans-Medium.woff": "/static/media/NotoSans-Medium.96233738cb4bcc886f8f.woff",
+    "static/media/workflow.png": "/static/media/workflow.345665fb465504b8a98d.png",
+    "static/media/instaIcon.png": "/static/media/instaIcon.3e87baff890d598f1863.png",
+    "static/media/cyainLogoWhite.png": "/static/media/cyainLogoWhite.f6135c68e6c8177d4018.png",
+    "index.html": "/index.html",
+    "main.99f29c5a.css.map": "/static/css/main.99f29c5a.css.map",
+    "main.81edb35d.js.map": "/static/js/main.81edb35d.js.map",
+    "787.66ce67a1.chunk.js.map": "/static/js/787.66ce67a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f29c5a.css",
+    "static/js/main.81edb35d.js"
+  ]
+}
